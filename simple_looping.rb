@@ -10,11 +10,7 @@ def loop_iterator(number_of_times)
   end
 end 
 
-  
-   def number_of_times.times do 
-    puts phrase
-  end
-end	
+  def times_iterat	
 
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
