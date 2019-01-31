@@ -1,6 +1,10 @@
 
 
-def loop_iterator(number_of_times)
+def loop_iterator(7)
+  counter = 0 
+  while counter < 7 
+  puts "Welcome to Flatiron School's Web Development Course!"
+ counter += 1 
 
   end
 
