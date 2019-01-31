@@ -1,10 +1,10 @@
 
 
-def loop_iterator(number_of_times)
- number_of_times = 0 
- until number_of_times = 7
+def loop_iterator(counter)
+ counter = 0 
+ until counter = 7
   puts "Welcome to Flatiron School's Web Development Course!"
-  number_of_times += 1 
+  counter += 1 
   end
 
 def times_iterator(number_of_times)
