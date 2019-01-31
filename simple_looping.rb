@@ -11,6 +11,7 @@ def loop_iterator(number_of_times)
 end 
 
   def times_iterator(number_of_times)
+    phrase = "Welcome to Flatiron School's Web Development Course!"
     
 
 def while_iterator(number_of_times)
